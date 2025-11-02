@@ -49,6 +49,7 @@ A complete, self-hosted media server solution that:
 | **[QUICKSTART.md](QUICKSTART.md)** | Condensed setup steps for experienced users | Quick reference, assumes Docker/Linux knowledge |
 | **[SETUP_CHECKLIST.md](SETUP_CHECKLIST.md)** | Interactive checklist to track progress | During setup to ensure nothing is missed |
 | **[SECURITY.md](SECURITY.md)** | Security hardening and best practices | CRITICAL - Read before exposing to internet |
+| **[CLOUDFLARE_TUNNEL.md](CLOUDFLARE_TUNNEL.md)** | Cloudflare Tunnel setup guide | Remote access without port forwarding |
 | **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)** | Common problems and solutions | When things go wrong |
 | **[DIRECTORY_STRUCTURE.md](DIRECTORY_STRUCTURE.md)** | Folder organization and paths | Understanding where everything goes |
 | **[INDEX.md](INDEX.md)** | This file - navigation hub | Finding the right documentation |
